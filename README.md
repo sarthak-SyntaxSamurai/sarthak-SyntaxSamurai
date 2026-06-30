@@ -1,31 +1,45 @@
-# 👋 Hi, I'm Sarthak (aka SyntaxSamurai)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sarthak-SyntaxSamurai/sarthak-SyntaxSamurai/main/banner.png" alt="SyntaxSamurai Banner" width="100%">
+</p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Role-Indie%20macOS%20Developer%20%7C%20Open%20Source%20Contributor-blue?style=flat-square" alt="Role">
+<p align="center">
+  <a href="https://github.com/sarthak-SyntaxSamurai">
+    <img src="https://img.shields.io/badge/Role-Indie%20macOS%20Developer%20%7C%20Open%20Source%20Contributor-00c896?style=flat-square" alt="Role">
+  </a>
+  <img src="https://img.shields.io/badge/Focus-SwiftUI%20%7C%20AppKit%20%7C%20Local--First%20Apps-blue?style=flat-square" alt="Focus">
   <img src="https://img.shields.io/badge/Location-India-orange?style=flat-square" alt="Location">
 </p>
 
-I love building clean, local-first macOS utilities and web tools that solve real problems without the bloat. Focus on great UI/UX, swift performance, and user privacy.
+---
+
+### 👋 About Me
+I am a passionate indie software engineer dedicated to building lightweight, native, and local-first software. I focus on creating toolkits that cut down on the clutter, respect user privacy, and deliver a fluid native UX.
+
+* 🖥️ **Currently building:** Native macOS applications using Swift and SwiftUI.
+* 🔒 **My Philosophy:** Local-first, zero trackers, zero subscriptions, extreme speed.
+* 🎨 **Design Goal:** Premium micro-interactions and tactile haptic feedback.
 
 ---
 
-### 🐸 My Flagship Project
+### 🐸 Featured Work
 
-#### [FrogDrop](https://github.com/sarthak-SyntaxSamurai/FrogDrop)
-A lightweight 3-in-1 companion that lives in your macOS Menu Bar:
-* 📦 **Dropzone** — Drag files to the menu bar to shelf/move them instantly.
-* 📋 **Clipboard Manager** — Secure local clipboard history with built-in TinyURL shortener and temporary rules.
-* ⏱️ **Focus Timer** — Pomodoro/Stopwatch with a cute blooming flower progress dashboard.
-* 🍻 **Zero-Warning Install** — Fully compatible with Homebrew Cask!
+#### 🌟 [FrogDrop](https://github.com/sarthak-SyntaxSamurai/FrogDrop)
+A lightweight 3-in-1 Menu Bar companion for macOS:
+* 📦 **Dropzone** — Drag files to the status bar to temporarily shelf or batch-move them.
+* 📋 **Clipboard Manager** — Secure local clipboard history featuring custom expiry times and app exclusion rules.
+* ⏱️ **Focus Timer** — Customizable Pomodoro and stopwatches with a dynamic blooming flower progress visualizer.
+* 🍻 **Homebrew Cask integration** — Native command-line install bypasses all macOS Gatekeeper warning prompts!
 
-👉 Install with one command:
 ```bash
 brew tap sarthak-SyntaxSamurai/tap && brew install --cask frogdrop
 ```
 
+#### 🛡️ [PopBlock](https://github.com/sarthak-SyntaxSamurai/popblock)
+A lightweight pop-up and ad blocker layout focused on zero tracking and lightweight execution footprint.
+
 ---
 
-### 🛠️ Tech Stack & Toolkit
+### 🛠️ Languages & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
@@ -42,7 +56,7 @@ brew tap sarthak-SyntaxSamurai/tap && brew install --cask frogdrop
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Statistics
 
 <p align="left">
   <a href="https://github.com/sarthak-SyntaxSamurai">
@@ -55,10 +69,10 @@ brew tap sarthak-SyntaxSamurai/tap && brew install --cask frogdrop
 
 ---
 
-### 💬 Let's Connect & Collaborate
+### 🤝 Connect & Support
 
-* 🐞 Found a bug or got an idea for **FrogDrop**? Open an issue in the repo!
-* 🤝 Interested in collaborating on macOS utilities or front-end web apps? Let's chat!
-* 💖 Support my work by sponsoring me on [GitHub Sponsors](https://github.com/sponsors/sarthak-SyntaxSamurai) or simply starring ⭐ my repos.
+* 🐛 Report bugs or suggest features on [FrogDrop Issues](https://github.com/sarthak-SyntaxSamurai/FrogDrop/issues).
+* 💖 Support my projects by sponsoring me on [GitHub Sponsors](https://github.com/sponsors/sarthak-SyntaxSamurai).
+* ⭐ Star the repositories if you find them helpful!
 
-*Keep coding, keep building!* 🚀
+*Thanks for visiting! Let's build something awesome together.* 🚀
