@@ -2,13 +2,16 @@
   <img src="https://raw.githubusercontent.com/sarthak-SyntaxSamurai/sarthak-SyntaxSamurai/main/banner.png" alt="SyntaxSamurai Banner" width="100%">
 </p>
 
-<p align="center">
-  <a href="https://github.com/sarthak-SyntaxSamurai">
-    <img src="https://img.shields.io/badge/Role-Indie%20macOS%20Developer%20%7C%20Open%20Source%20Contributor-00c896?style=flat-square" alt="Role">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00FF66&background=0D111700&center=true&vCenter=true&width=800&height=100&lines=👋+Hi,+I'm+Sarthak+Anand;🚀+Creator+of+FrogDrop;💻+Building+Fast,+Local+Mac+Apps;⚡+Turning+Coffee+into+Code" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/sponsors/sarthak-SyntaxSamurai">
+    <img src="https://img.shields.io/badge/Sponsor_Me-💖-FF69B4?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor"/>
   </a>
-  <img src="https://img.shields.io/badge/Focus-SwiftUI%20%7C%20AppKit%20%7C%20Local--First%20Apps-blue?style=flat-square" alt="Focus">
-  <img src="https://img.shields.io/badge/Location-India-orange?style=flat-square" alt="Location">
-</p>
+  <img src="https://komarev.com/ghpvc/?username=sarthak-SyntaxSamurai&color=00FF66&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
 
 ---
 
@@ -18,6 +21,36 @@ I am a passionate indie software engineer dedicated to building lightweight, nat
 * 🖥️ **Currently building:** Native macOS applications using Swift and SwiftUI.
 * 🔒 **My Philosophy:** Local-first, zero trackers, zero subscriptions, extreme speed.
 * 🎨 **Design Goal:** Premium micro-interactions and tactile haptic feedback.
+
+---
+
+## 💖 Support My Open Source Journey
+
+Building high-quality, 100% local, and free tools like **FrogDrop** takes hundreds of hours of coding, debugging, and coffee. If my work has saved you time or made your life easier, please consider becoming a sponsor! 
+
+Your support keeps these projects alive and ad-free. Plus, you get your name immortalized right here!
+
+### 🌟 Current Sponsors
+
+<div align="center">
+  
+  *It's a little quiet here right now...* <br>
+  **[🚀 Be the absolute FIRST to sponsor me and claim this top spot!](https://github.com/sponsors/sarthak-SyntaxSamurai)**
+  
+  <!-- When you get a sponsor, add them like this:
+  <a href="https://github.com/SponsorUsername">
+    <img src="https://github.com/SponsorUsername.png" width="60px" style="border-radius:50%;" alt="Sponsor Name"/>
+    <br><b>Sponsor Name</b>
+  </a>
+  -->
+</div>
+
+### 🕰️ Past Sponsors
+<div align="center" style="opacity: 0.6; font-size: 0.8em;">
+  
+  *No past sponsors yet. Hopefully, everyone stays!*
+  
+</div>
 
 ---
 
@@ -56,16 +89,19 @@ A lightweight pop-up and ad blocker layout focused on zero tracking and lightwei
 
 ---
 
-### 📊 GitHub Activity & Statistics
+## 📊 GitHub Analytics
 
-<p align="left">
-  <a href="https://github.com/sarthak-SyntaxSamurai">
-    <img src="https://github-readme-stats.vercel.app/api?username=sarthak-SyntaxSamurai&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Sarthak's GitHub Stats" width="48%">
-  </a>
-  <a href="https://github.com/sarthak-SyntaxSamurai">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-SyntaxSamurai&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%">
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarthak-SyntaxSamurai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=C9D1D9&icon_color=00FF66" alt="GitHub Stats" width="48%" />
+  
+  <img src="https://streak-stats.demolab.com/?user=sarthak-SyntaxSamurai&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FF66&ring=00FF66&fire=FF6B6B" alt="GitHub Streak" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-SyntaxSamurai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=C9D1D9" alt="Top Languages" width="100%" />
+</div>
 
 ---
 
