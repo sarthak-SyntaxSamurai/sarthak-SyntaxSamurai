@@ -10,7 +10,11 @@
   <a href="https://github.com/sponsors/sarthak-SyntaxSamurai">
     <img src="https://img.shields.io/badge/Sponsor_Me-💖-FF69B4?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=sarthak-SyntaxSamurai&color=00FF66&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Total_Clones-200%2B-00FF66?style=for-the-badge&logo=git" alt="Total Clones" />
+  <img src="https://img.shields.io/github/downloads/sarthak-SyntaxSamurai/FrogDrop/total?style=for-the-badge&color=00FF66&label=FROGDROP+DOWNLOADS" alt="FrogDrop Downloads" />
+  
+  <!-- Hidden Profile Views Counter (keeps counting in background until 100+) -->
+  <img src="https://komarev.com/ghpvc/?username=sarthak-SyntaxSamurai" width="0" height="0" />
 </div>
 
 ---
