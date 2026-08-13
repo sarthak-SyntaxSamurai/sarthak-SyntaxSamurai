@@ -1,0 +1,47 @@
+name: Update GitHub Clone Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at 00:00 UTC (05:30 AM IST)
+  workflow_dispatch:      # Allows manual one-click trigger from GitHub Actions tab
+  push:
+    branches: [ main ]
+    paths:
+      - 'update_clones.py'
+      - '.github/workflows/update_clones.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  sync-clones:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Fetch and Sync Clone Stats
+        env:
+          TRAFFIC_TOKEN: ${{ secrets.TRAFFIC_PAT || secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.TRAFFIC_PAT || secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
+        run: |
+          python update_clones.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md clones_history.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "docs: auto update clone count [skip ci]"
+            git push
+          fi

@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sarthak-SyntaxSamurai/sarthak-SyntaxSamurai/main/banner.png" alt="SyntaxSamurai Banner" width="100%">
-</p>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00FF66&background=0D111700&center=true&vCenter=true&width=800&height=100&lines=👋+Hi,+I'm+Sarthak+Anand;🚀+Creator+of+FrogDrop;💻+Building+Fast,+Local+Mac+Apps;⚡+Turning+Coffee+into+Code" alt="Typing SVG" />
@@ -10,11 +7,11 @@
   <a href="https://github.com/sponsors/sarthak-SyntaxSamurai">
     <img src="https://img.shields.io/badge/Sponsor_Me-💖-FF69B4?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor"/>
   </a>
-  <img src="https://img.shields.io/badge/Total_Clones-361-00FF66?style=for-the-badge&logo=git" alt="Total Clones" />
-  
-  <!-- Hidden Badges (Views & Downloads) -->
-  <!-- <img src="https://img.shields.io/github/downloads/sarthak-SyntaxSamurai/FrogDrop/total?style=for-the-badge&color=00FF66&label=FROGDROP+DOWNLOADS" alt="FrogDrop Downloads" /> -->
-  <img src="https://komarev.com/ghpvc/?username=sarthak-SyntaxSamurai" width="0" height="0" />
+  <img src="https://img.shields.io/badge/Total_Clones-361-00FF66?style=for-the-badge&logo=git&logoColor=white" alt="Total Clones" />
+  <a href="https://github.com/sarthak-SyntaxSamurai/FrogDrop/releases">
+    <img src="https://img.shields.io/github/downloads/sarthak-SyntaxSamurai/FrogDrop/total?style=for-the-badge&color=00FF66&logo=apple&logoColor=white&label=FrogDrop%20Downloads" alt="FrogDrop Downloads" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=sarthak-SyntaxSamurai&style=for-the-badge&color=00FF66&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 ---
