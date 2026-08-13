@@ -8,6 +8,8 @@
     <img src="https://img.shields.io/badge/Sponsor_Me-💖-FF69B4?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor"/>
   </a>
   <img src="https://img.shields.io/badge/Total_Clones-361-00FF66?style=for-the-badge&logo=git&logoColor=white" alt="Total Clones" />
+</div>
+<div align="center" style="margin-top: 6px;">
   <a href="https://github.com/sarthak-SyntaxSamurai/FrogDrop/releases">
     <img src="https://img.shields.io/github/downloads/sarthak-SyntaxSamurai/FrogDrop/total?style=for-the-badge&color=00FF66&logo=apple&logoColor=white&label=FrogDrop%20Downloads" alt="FrogDrop Downloads" />
   </a>
