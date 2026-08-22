@@ -7,7 +7,7 @@
   <a href="https://github.com/sponsors/sarthak-SyntaxSamurai">
     <img src="https://img.shields.io/badge/Sponsor_Me-💖-FF69B4?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor"/>
   </a>
-  <img src="https://img.shields.io/badge/Total_Clones-423-00FF66?style=for-the-badge&logo=git&logoColor=white" alt="Total Clones" />
+  <img src="https://img.shields.io/badge/Total_Clones-490-00FF66?style=for-the-badge&logo=git&logoColor=white" alt="Total Clones" />
 </div>
 <div align="center" style="margin-top: 6px;">
   <a href="https://github.com/sarthak-SyntaxSamurai/FrogDrop/releases">
