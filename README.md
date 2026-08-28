@@ -99,15 +99,39 @@ A distraction-free popup and content filtering layout designed for minimal memor
 
 ---
 
-### 💖 Support My Open Source Journey
+## 💖 Support My Open Source Journey
 
-Building 100% free, local-first tools like **FrogDrop** takes countless hours of design, development, and coffee. If my projects have made your workflow faster, consider sponsoring!
+Building 100% free, local-first tools like **FrogDrop** takes hundreds of hours of coding, debugging, and coffee. If my work has saved you time or made your workflow faster, consider becoming a sponsor!
+
+Your support keeps these projects alive, fast, and completely ad-free. Plus, you get your avatar and name immortalized right here!
 
 <p align="center">
   <a href="https://github.com/sponsors/sarthak-SyntaxSamurai">
     <img src="https://img.shields.io/badge/Sponsor_%40sarthak--SyntaxSamurai-💖-FF69B4?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub" />
   </a>
 </p>
+
+### 🌟 Current Sponsors
+
+<div align="center">
+  
+  *It's a little quiet here right now...* <br>
+  **[🚀 Be the absolute FIRST to sponsor me and claim this top spot!](https://github.com/sponsors/sarthak-SyntaxSamurai)**
+  
+  <!-- When you get a sponsor, add them like this:
+  <a href="https://github.com/SponsorUsername">
+    <img src="https://github.com/SponsorUsername.png" width="60px" style="border-radius:50%;" alt="Sponsor Name"/>
+    <br><b>Sponsor Name</b>
+  </a>
+  -->
+</div>
+
+### 🕰️ Past Sponsors
+<div align="center" style="opacity: 0.6; font-size: 0.85em;">
+  
+  *No past sponsors yet. Hopefully, everyone stays!*
+  
+</div>
 
 ---
 
