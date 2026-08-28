@@ -86,15 +86,7 @@ A distraction-free popup and content filtering layout designed for minimal memor
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarthak-SyntaxSamurai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=C9D1D9&icon_color=00FF66" alt="GitHub Stats" width="48%" />
-  
-  <img src="https://streak-stats.demolab.com/?user=sarthak-SyntaxSamurai&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FF66&ring=00FF66&fire=FF6B6B" alt="GitHub Streak" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-SyntaxSamurai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=C9D1D9" alt="Top Languages" width="100%" />
+  <img src="assets/github_stats.svg" width="100%" alt="Sarthak Anand GitHub Analytics" />
 </div>
 
 ---

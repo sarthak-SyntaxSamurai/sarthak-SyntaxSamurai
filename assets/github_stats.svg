@@ -1,0 +1,60 @@
+<svg width="800" height="250" viewBox="0 0 800 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .header { font: 600 17px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #F0F6FC; }
+    .sub { font: 400 12px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #8B949E; }
+    .metric-val { font: 700 22px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #00FF66; }
+    .metric-lbl { font: 500 13px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #C9D1D9; }
+    .lang-lbl { font: 500 12px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #8B949E; }
+  </style>
+
+  <!-- Background Canvas -->
+  <rect width="800" height="250" rx="16" fill="#0D1117" stroke="#30363D" stroke-width="1.5"/>
+
+  <!-- Top Ambient Glow -->
+  <circle cx="400" cy="0" r="180" fill="#00FF66" fill-opacity="0.06"/>
+
+  <!-- Header -->
+  <circle cx="28" cy="32" r="6" fill="#00FF66"/>
+  <text x="44" y="37" class="header">Sarthak Anand (@sarthak-SyntaxSamurai) • 2026 Developer Analytics</text>
+  <text x="760" y="36" text-anchor="end" class="sub">Verified GitHub Stats</text>
+  <line x1="20" y1="55" x2="780" y2="55" stroke="#21262D" stroke-width="1"/>
+
+  <!-- 4 Stat Metric Cards -->
+  <!-- Card 1: Total Clones -->
+  <rect x="24" y="70" width="176" height="85" rx="10" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+  <text x="40" y="98" class="metric-lbl">🔥 Total Clones</text>
+  <text x="40" y="132" class="metric-val">518+</text>
+
+  <!-- Card 2: Own Repositories -->
+  <rect x="214" y="70" width="176" height="85" rx="10" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+  <text x="230" y="98" class="metric-lbl">📦 Public Repos</text>
+  <text x="230" y="132" class="metric-val">7 Projects</text>
+
+  <!-- Card 3: Flagship App -->
+  <rect x="404" y="70" width="186" height="85" rx="10" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+  <text x="420" y="98" class="metric-lbl">🐸 Flagship Companion</text>
+  <text x="420" y="132" class="metric-val" style="fill: #38BDF8;">FrogDrop v2.1</text>
+
+  <!-- Card 4: Architecture Focus -->
+  <rect x="604" y="70" width="172" height="85" rx="10" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+  <text x="620" y="98" class="metric-lbl">⚡ Core Philosophy</text>
+  <text x="620" y="132" class="metric-val" style="fill: #A855F7; font-size: 17px;">Local-First</text>
+
+  <!-- Bottom Language Distribution Header -->
+  <text x="24" y="182" class="sub" style="font-weight: 600; fill: #C9D1D9;">Primary Ecosystem Breakdown</text>
+  
+  <!-- Language Progress Bar -->
+  <rect x="24" y="194" width="530" height="10" rx="5" fill="#F05138"/>
+  <rect x="558" y="194" width="140" height="10" rx="0" fill="#3776AB"/>
+  <rect x="702" y="194" width="74" height="10" rx="5" fill="#89E051"/>
+
+  <!-- Legend -->
+  <circle cx="28" cy="226" r="4" fill="#F05138"/>
+  <text x="38" y="230" class="lang-lbl">Swift <tspan fill="#F0F6FC">70.5%</tspan></text>
+
+  <circle cx="160" cy="226" r="4" fill="#3776AB"/>
+  <text x="170" y="230" class="lang-lbl">Python <tspan fill="#F0F6FC">18.7%</tspan></text>
+
+  <circle cx="290" cy="226" r="4" fill="#89E051"/>
+  <text x="300" y="230" class="lang-lbl">Shell / Bash <tspan fill="#F0F6FC">10.8%</tspan></text>
+</svg>
