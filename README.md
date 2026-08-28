@@ -1,13 +1,12 @@
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00FF66&background=0D111700&center=true&vCenter=true&width=800&height=100&lines=👋+Hi,+I'm+Sarthak+Anand;🚀+Creator+of+FrogDrop;💻+Building+Fast,+Local+Mac+Apps;⚡+Turning+Coffee+into+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00FF66&background=0D111700&center=true&vCenter=true&width=800&height=100&lines=👋+Hi,+I'm+Sarthak+Anand;🐸+Creator+of+FrogDrop;💻+Building+Local-First+Native+Mac+Apps;⚡+Zero+Subscriptions,+Extreme+Speed" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <a href="https://github.com/sponsors/sarthak-SyntaxSamurai">
     <img src="https://img.shields.io/badge/Sponsor_Me-💖-FF69B4?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor"/>
   </a>
-  <img src="https://img.shields.io/badge/Total_Clones-501-00FF66?style=for-the-badge&logo=git&logoColor=white" alt="Total Clones" />
+  <img src="https://img.shields.io/badge/Total_Clones-518-00FF66?style=for-the-badge&logo=git&logoColor=white" alt="Total Clones" />
 </div>
 <div align="center" style="margin-top: 6px;">
   <a href="https://github.com/sarthak-SyntaxSamurai/FrogDrop/releases">
@@ -18,76 +17,68 @@
 
 ---
 
-### 👋 About Me
-I am a passionate indie software engineer dedicated to building lightweight, native, and local-first software. I focus on creating toolkits that cut down on the clutter, respect user privacy, and deliver a fluid native UX.
+### 🚀 About Me & 2026 Focus
 
-* 🖥️ **Currently building:** Native macOS applications using Swift and SwiftUI.
-* 🔒 **My Philosophy:** Local-first, zero trackers, zero subscriptions, extreme speed.
-* 🎨 **Design Goal:** Premium micro-interactions and tactile haptic feedback.
+I am an indie software engineer dedicated to building lightweight, native, and **local-first** macOS software. I believe desktop tools should be blazing fast, visually delightful, and completely free of recurring subscriptions or tracking daemons.
 
----
-
-## 💖 Support My Open Source Journey
-
-Building high-quality, 100% local, and free tools like **FrogDrop** takes hundreds of hours of coding, debugging, and coffee. If my work has saved you time or made your life easier, please consider becoming a sponsor! 
-
-Your support keeps these projects alive and ad-free. Plus, you get your name immortalized right here!
-
-### 🌟 Current Sponsors
-
-<div align="center">
-  
-  *It's a little quiet here right now...* <br>
-  **[🚀 Be the absolute FIRST to sponsor me and claim this top spot!](https://github.com/sponsors/sarthak-SyntaxSamurai)**
-  
-  <!-- When you get a sponsor, add them like this:
-  <a href="https://github.com/SponsorUsername">
-    <img src="https://github.com/SponsorUsername.png" width="60px" style="border-radius:50%;" alt="Sponsor Name"/>
-    <br><b>Sponsor Name</b>
-  </a>
-  -->
-</div>
-
-### 🕰️ Past Sponsors
-<div align="center" style="opacity: 0.6; font-size: 0.8em;">
-  
-  *No past sponsors yet. Hopefully, everyone stays!*
-  
-</div>
+* 🖥️ **What I'm Building:** Native macOS productivity utilities in Swift, SwiftUI, and AppKit.
+* 🔒 **Engineering Philosophy:** Local-first, zero analytics/trackers, zero subscriptions, 60fps responsiveness.
+* ⚡ **Performance Obsessed:** On-device Apple Neural Engine (Vision OCR), tactile haptics, and procedural audio.
 
 ---
 
 ### 🐸 Featured Work
 
-#### 🌟 [FrogDrop](https://github.com/sarthak-SyntaxSamurai/FrogDrop)
-A lightweight 3-in-1 Menu Bar companion for macOS:
-* 📦 **Dropzone** — Drag files to the status bar to temporarily shelf or batch-move them.
-* 📋 **Clipboard Manager** — Secure local clipboard history featuring custom expiry times and app exclusion rules.
-* ⏱️ **Focus Timer** — Customizable Pomodoro and stopwatches with a dynamic blooming flower progress visualizer.
-* 🍻 **Homebrew Cask integration** — Native command-line install bypasses all macOS Gatekeeper warning prompts!
+#### 🌟 [FrogDrop](https://github.com/sarthak-SyntaxSamurai/FrogDrop) — *The Ultimate Native macOS Productivity Companion*
 
+A delightful menu bar mascot and productivity layer that unifies file shelving, clipboard history, OCR, and focus tools into a single native utility:
+
+* 🪟 **Shake-to-Drop Shelves** — Wiggle cursor while dragging any file to summon a floating shelf stack.
+* 👁️ **On-Device Vision OCR** — 1-click text extraction from screenshots & receipts via Apple Silicon Neural Engine.
+* ⚡ **Next-Gen AVIF / WebP Converter** — 70%+ file size reduction, lossless image optimization & EXIF/GPS metadata stripper.
+* 🎵 **Focus Suite & Procedural Audio** — Circular radial timer, offline atmospheric soundscapes, and gamified frog evolution streaks.
+* 🔍 **Native Spacebar QuickLook Previews** — Seamless full-size file previewing across all floating HUDs.
+
+**🚀 1-Line Terminal Install:**
+```bash
+curl -fsSL https://raw.githubusercontent.com/sarthak-SyntaxSamurai/FrogDrop/main/install.sh | bash
+```
+
+**🍻 Or via Homebrew Cask:**
 ```bash
 brew tap sarthak-SyntaxSamurai/tap && brew install --cask frogdrop
 ```
 
-#### 🛡️ [PopBlock](https://github.com/sarthak-SyntaxSamurai/popblock)
-A lightweight pop-up and ad blocker layout focused on zero tracking and lightweight execution footprint.
+---
+
+#### 🛡️ [PopBlock](https://github.com/sarthak-SyntaxSamurai/popblock) — *Ultra-Lightweight Content Blocker*
+A distraction-free popup and content filtering layout designed for minimal memory footprint and local filtering rules.
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Tech Stack & Tooling
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
+  <strong>Apple & Native Systems:</strong><br/>
+  <img src="https://img.shields.io/badge/Swift_5.9+-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
   <img src="https://img.shields.io/badge/SwiftUI-007ACC?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI">
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS">
+  <img src="https://img.shields.io/badge/AppKit-000000?style=for-the-badge&logo=apple&logoColor=white" alt="AppKit">
+  <img src="https://img.shields.io/badge/macOS_14+-black?style=for-the-badge&logo=apple&logoColor=white" alt="macOS">
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode">
 </p>
+
 <p align="left">
+  <strong>Scripting & Automation:</strong><br/>
+  <img src="https://img.shields.io/badge/Python_3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+</p>
+
+<p align="left">
+  <strong>DevOps & Distribution:</strong><br/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=black" alt="Homebrew">
 </p>
 
 ---
@@ -108,10 +99,18 @@ A lightweight pop-up and ad blocker layout focused on zero tracking and lightwei
 
 ---
 
-### 🤝 Connect & Support
+### 💖 Support My Open Source Journey
 
-* 🐛 Report bugs or suggest features on [FrogDrop Issues](https://github.com/sarthak-SyntaxSamurai/FrogDrop/issues).
-* 💖 Support my projects by sponsoring me on [GitHub Sponsors](https://github.com/sponsors/sarthak-SyntaxSamurai).
-* ⭐ Star the repositories if you find them helpful!
+Building 100% free, local-first tools like **FrogDrop** takes countless hours of design, development, and coffee. If my projects have made your workflow faster, consider sponsoring!
 
-*Thanks for visiting! Let's build something awesome together.* 🚀
+<p align="center">
+  <a href="https://github.com/sponsors/sarthak-SyntaxSamurai">
+    <img src="https://img.shields.io/badge/Sponsor_%40sarthak--SyntaxSamurai-💖-FF69B4?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <sub>Built with ❤️ by Sarthak Anand • Let's create awesome native tools together! 🚀</sub>
+</div>
