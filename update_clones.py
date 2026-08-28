@@ -226,7 +226,7 @@ def generate_stats_svg(grand_total, repo_count):
   <!-- Card 3: Flagship App -->
   <rect x="404" y="70" width="186" height="85" rx="10" fill="#161B22" stroke="#30363D" stroke-width="1"/>
   <text x="420" y="98" class="metric-lbl">🐸 Flagship Companion</text>
-  <text x="420" y="132" class="metric-val" style="fill: #38BDF8;">FrogDrop v2.1</text>
+  <text x="420" y="132" class="metric-val" style="fill: #38BDF8;">FrogDrop v2.2</text>
 
   <!-- Card 4: Architecture Focus -->
   <rect x="604" y="70" width="172" height="85" rx="10" fill="#161B22" stroke="#30363D" stroke-width="1"/>
