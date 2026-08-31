@@ -28,7 +28,7 @@
   <!-- Card 2: Own Repositories -->
   <rect x="214" y="70" width="176" height="85" rx="10" fill="#161B22" stroke="#30363D" stroke-width="1"/>
   <text x="230" y="98" class="metric-lbl">📦 Public Repos</text>
-  <text x="230" y="132" class="metric-val">7 Projects</text>
+  <text x="230" y="132" class="metric-val">5 Projects</text>
 
   <!-- Card 3: Flagship App -->
   <rect x="404" y="70" width="186" height="85" rx="10" fill="#161B22" stroke="#30363D" stroke-width="1"/>
